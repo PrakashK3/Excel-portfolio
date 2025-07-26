@@ -1,7 +1,7 @@
-# Coffee Shop Sales Analysis
+# Starbucks Sales Analysis
 
 ## Project Overview
-**Maven Roasters**, a fictitious coffee shop chain, operating at three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to **uncover sales trends, identify peak times, and understand customer preferences**.
+**Starbucks**, a fictitious coffee shop chain, operating at three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to **uncover sales trends, identify peak times, and understand customer preferences**.
 
 ### Goals
 - **Transform** the sales data into a dynamic dashboard. 
@@ -350,7 +350,3 @@ Photo by Pavel Danilyuk: https://www.pexels.com/photo/a-woman-standing-behind-th
 
 ## Conclusion
 This analysis provides valuable insights into **customer behavior** at Maven Roasters. By implementing the recommendations, the Maven Roasters are expected to achieve an **18% increase** in February revenue, a **19% improvement** in post-11 AM transactions, a **21.5% growth** in coffee bean sales, and a **10.5%** rise in loose tea sales. Additionally, operational efficiency is projected to **improve by 8.5%**, driving overall sales growth and customer satisfaction.[recommendation impact.pdf](https://github.com/user-attachments/files/18202772/recommendation.impact.pdf)
-
-
-
-
