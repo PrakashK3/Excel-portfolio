@@ -1,7 +1,7 @@
 # Starbucks Sales Analysis
 
 ## Project Overview
-**Starbucks**, a fictitious coffee shop chain, operating at three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to **uncover sales trends, identify peak times, and understand customer preferences**.
+**Starbucks**, a coffee shop chain, operating at three locations in **New York: Hell’s Kitchen, Astoria, and Lower Manhattan**. This project analyzes **transactional data from January to June 2023** to **uncover sales trends, identify peak times, and understand customer preferences**.
 
 ### Goals
 - **Transform** the sales data into a dynamic dashboard. 
